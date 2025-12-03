@@ -70,3 +70,6 @@ cd ~/libopencm3
 make
 결과: 빌드가 완료되면 라이브러리 파일(.a)이 생성되며, 이제 펌웨어 예제 코드를 컴파일할 준비가 완료되었습니다.
 ```
+
+# 참고 문헌
+https://github.com/libopencm3/libopencm3
