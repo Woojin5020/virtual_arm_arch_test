@@ -72,4 +72,5 @@ make
 ```
 
 # 참고 문헌
-https://github.com/libopencm3/libopencm3
+#### 1) https://interrupt.memfault.com/blog/intro-to-renode#fn:1
+#### 2) https://github.com/libopencm3/libopencm3
